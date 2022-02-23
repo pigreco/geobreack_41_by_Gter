@@ -1,6 +1,6 @@
 # GeoBreack 41 by Gter
 
-GeoBreak 41 - QGIS: l'installazione!
+GeoBreak 41 - **QGIS**: l'installazione!
 
 [![](https://img.shields.io/badge/discussioni-partecipa-brightgreen?style=for-the-badge&logo=github)](https://github.com/pigreco/nnnnnnnnnnnnnnnnnnnn/discussions)
 
@@ -15,6 +15,7 @@ GeoBreak 41 - QGIS: l'installazione!
   - [Data, luogo e durata](#data-luogo-e-durata)
   - [Piattaforme e Software](#piattaforme-e-software)
 - [Programma](#programma)
+- [Slide](#slide)
 - [Contatti](#contatti)
   - [Salvatore Fiandaca](#salvatore-fiandaca)
   - [Sitografia](#sitografia)
@@ -61,6 +62,10 @@ GeoBreak 41 - QGIS: l'installazione!
 1. introduzione da parte di GTER;
 2. slide sull'argomento;
 3. domande finali.
+
+# Slide
+
+[SLIDE](https://docs.google.com/presentation/d/e/2PACX-1vS2yLaIdI5a-PAnnxJKUOUVW70ro2wppuW2tp7RAfHgDsCIsGozNGoJ7_7lvp2HRcZYoMvGFTT_4Cws/pub?start=false&loop=false&delayms=3000)
 
 [↑ torna su ↑](#geobreack-41-by-gter)
 
