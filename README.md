@@ -30,7 +30,7 @@ GeoBreak 41 - **QGIS**: l'installazione!
 **TITOLO**: <br> Installazione di [QGIS](https://qgis.org/it/site/): Standalone VS OSGeo4W Network Installer.
 
 **DESCRIZIONE**: <br> QGIS non ha bisogno di presentazioni, chi opera nel campo dei GIS conosce le sue potenzialità, le sue funzioni e strumenti. Ma in quanti ci siamo chiesti: _quale versione scelgo_? _Standalone o OSGeo4W installer_? _Vecchio o nuovo repository_? _Versione LTR o ultima versione di sviluppo_? In questo GeoBreak ce ne parla **Salvatore Fiandaca**, che ci aiuterà a fare chiarezza sul primo e fondamentale passo verso un utilizzo più consapevole di **QGIS**: **l'installazione**!
-<p align="center"><a href="https://www.gter.it/geobreak/" target="_blank"><img src="./imgs/gEOBREAK41.PNG" width="500" title="GeoBreak"></a></p>
+<p align="center"><a href="https://www.gter.it/geobreak/" target="_blank"><img src="./imgs/Geobreak41.png" width="500" title="GeoBreak"></a></p>
 
 ---
 
