@@ -10,7 +10,7 @@ GeoBreak 41 - **QGIS**: l'installazione!
 
 <!-- TOC -->
 
-- [GeoBreack 41 by Gter](#geobreack-41-by-gter)
+- [GeoBreak 41 by Gter](#geobreak-41-by-gter)
   - [Relatore](#relatore)
   - [Data, luogo e durata](#data-luogo-e-durata)
   - [Piattaforme e Software](#piattaforme-e-software)
