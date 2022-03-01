@@ -2,7 +2,7 @@
 
 GeoBreak 41 - **QGIS**: l'installazione!
 
-[![](https://img.shields.io/badge/discussioni-partecipa-brightgreen?style=for-the-badge&logo=github)](https://github.com/pigreco/geobreack_41_by_Gter/discussions)
+[![](https://img.shields.io/badge/discussioni-partecipa-brightgreen?style=for-the-badge&logo=github)](https://github.com/pigreco/geobreak_41_by_Gter/discussions)
 
 ---
 
@@ -70,7 +70,7 @@ GeoBreak 41 - **QGIS**: l'installazione!
 
 [SLIDE](https://docs.google.com/presentation/d/e/2PACX-1vS2yLaIdI5a-PAnnxJKUOUVW70ro2wppuW2tp7RAfHgDsCIsGozNGoJ7_7lvp2HRcZYoMvGFTT_4Cws/pub?start=false&loop=false&delayms=3000)
 
-[↑ torna su ↑](#geobreack-41-by-gter)
+[↑ torna su ↑](#geobreak-41-by-gter)
 
 # Contatti
 
@@ -91,7 +91,7 @@ GeoBreak 41 - **QGIS**: l'installazione!
 * **gitlab**: <https://gitlab.com/pigr3co>
 * **Canale Telegram** : <https://t.me/pigrecoinfinito>
 
-[↑ torna su ↑](#geobreack-41-by-gter)
+[↑ torna su ↑](#geobreak-41-by-gter)
 
 # Riferimenti utili
 
@@ -103,7 +103,7 @@ GeoBreak 41 - **QGIS**: l'installazione!
 - **Visual Studio Code** : <https://code.visualstudio.com/>
 - **OpenDataSicilia** : <http://opendatasicilia.it/>
 
-[↑ torna su ↑](#geobreack-41-by-gter)
+[↑ torna su ↑](#geobreak-41-by-gter)
 
 # Cosa c'è in questo repo
 
@@ -111,10 +111,10 @@ GeoBreak 41 - **QGIS**: l'installazione!
 - file `license` è il file che definisce la licenza del repository;
 - file `README.md` è questo file, con le info.
 
-[↑ torna su ↑](#geobreack-41-by-gter)
+[↑ torna su ↑](#geobreak-41-by-gter)
 
 # risultati
 
 - present1: xx
 
-[↑ torna su ↑](#geobreack-41-by-gter)
+[↑ torna su ↑](#geobreak-41-by-gter)
