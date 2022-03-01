@@ -2,7 +2,7 @@
 
 GeoBreak 41 - **QGIS**: l'installazione!
 
-[![](https://img.shields.io/badge/discussioni-partecipa-brightgreen?style=for-the-badge&logo=github)](https://github.com/pigreco/nnnnnnnnnnnnnnnnnnnn/discussions)
+[![](https://img.shields.io/badge/discussioni-partecipa-brightgreen?style=for-the-badge&logo=github)](https://github.com/pigreco/geobreack_41_by_Gter/discussions)
 
 ---
 
