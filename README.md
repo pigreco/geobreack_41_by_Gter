@@ -1,4 +1,4 @@
-# GeoBreack 41 by Gter
+# GeoBreak 41 by Gter
 
 GeoBreak 41 - **QGIS**: l'installazione!
 
