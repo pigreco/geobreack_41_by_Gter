@@ -22,6 +22,7 @@ GeoBreak 41 - **QGIS**: l'installazione!
 - [Riferimenti utili](#riferimenti-utili)
 - [Cosa c'è in questo repo](#cosa-cè-in-questo-repo)
 - [risultati](#risultati)
+  - [chat](#chat)
 
 <!-- /TOC -->
 
@@ -115,6 +116,53 @@ GeoBreak 41 - **QGIS**: l'installazione!
 
 # risultati
 
-- present1: xx
+- presenti: numero massimo 25
+
+![](./imgs/2022-03-02_09h56_45.png)
+![](./imgs/2022-03-02_10h08_08.png)
+
+## chat
+
+```
+giampaolo di biase : buongiorno a tutti....
+Francesco Pacini : Buongiorno a tutti
+simona.massucco : buongiorno :smile:
+simona.massucco : scusate, avreste un link?
+simona.massucco : di visdata, intendo
+Daniele : Buongiorno a tutti/e
+Francesco Bursi : In coda lo chiediamo a Salvatore :smile:
+simona.massucco : :thumbsup:
+francesco fiermonte : Buongiorno!!!
+rocco pispico : ciao devo staccarmi. come sempre grazie per il buon inizio di giornata. grazie Totò grazie Roberta. solo una domanda Totò cosa hai usato per proiettare le slide? a presto
+Roberta Fagandini : Ciao Rocco, grazie a te per essere stato con noi!
+Roberta Fagandini : giro la domanda a Salvatore..
+Francesco Bursi : https://github.com/pigreco/geobreack_41_by_Gter
+Francesco Bursi : ci sono le slide sul suo repository
+simona.massucco : un link per accedere al progetto (source, documentazione) :smile:
+Carmelo : Buongiorno, una domanda per FIANDACA ..... quali sono i plugin assolutamente da avere installati su QGIS?
+simona.massucco : riguardo la presentazione dell'11 marzo
+Francesco Bursi : https://www.visidata.org/
+
+sul canale di Salvatore penso ci siano anche dei tutorial e/o spunti
+simona.massucco : grazie!
+Mauro R : Grazie e arrivederci
+Carmelo : URBANISTICA
+S3+Lab : Qualcuno conosce il plugin "Servizi Ecosistemici Città di Torino" che dovrebbe aiutare nel "Calcolo dei Servizi Ecosistemici per la Città di Torino"?
+S3+Lab : Sulle mie installazioni non funziona...
+giampaolo di biase : grazie mille a Salvatore e Roberta, buona giornata a tutti....
+S3+Lab : Toto', puoi darci una occhiata, per favore?
+S3+Lab : Grass!!!
+Carmelo : Grazie mille, ti seguo sui canali telegram
+S3+Lab : Grazie, Toto'
+snobile : grazie e al prossimo  GeoBreak
+Francesco Barsotti : complimenti per la presentazione e grazie. Alla prossima
+Giuseppina : Complimenti a Salvatore Fiandaca sempre chiaro
+Francesco Pacini : Mi dispiace ma non ho telecamera
+simona.massucco : complimenti a tutti, alla prossima!
+S3+Lab : Sempre Grandi!!!
+Francesco Pacini : Grazie a tutti. Complimenti Salvatore.
+S3+Lab : Grazieeeee
+Giuseppina : grazie a tutti
+```
 
 [↑ torna su ↑](#geobreak-41-by-gter)
