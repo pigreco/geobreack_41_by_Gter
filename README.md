@@ -116,7 +116,7 @@ GeoBreak 41 - **QGIS**: l'installazione!
 
 # risultati
 
-- presenti: numero massimo 25
+- presenti: numero massimo 30
 
 ![](./imgs/2022-03-02_09h56_45.png)
 ![](./imgs/2022-03-02_10h08_08.png)
