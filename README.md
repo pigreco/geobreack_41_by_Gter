@@ -46,7 +46,7 @@ GeoBreak 41 - **QGIS**: l'installazione!
 
 ## Data, luogo e durata
 
-- 🗓 02/03/2022 con orario  🕟 09.00 🕢 10.00 
+- 🗓 02/03/2022 con orario  🕟 09.00 🕢 10.00
 - 🌐 on-line
 - ⏳ una ora
 
@@ -56,8 +56,8 @@ GeoBreak 41 - **QGIS**: l'installazione!
 - Windows 10 Pro 64b - come SO
 - [`QGIS 3.24 RC Tisler`](https://qgis.org/it/site/)
 
-<img src="https://img.shields.io/badge/qgis-3.24_Tisler-93b023?&style=for-the-badge&logo=qgis&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/qgis-3.22_Bia%C5%82owie%C5%BCa-93b023?&style=for-the-badge&logo=qgis&logoColor=white" />
+<a href="https://changelog.qgis.org/en/qgis/version/3.24/"><img src="https://img.shields.io/badge/qgis-3.24_Tisler-93b023?&style=for-the-badge&logo=qgis&logoColor=white" /></a><br>
+<a href="https://changelog.qgis.org/en/qgis/version/3.22/"><img src="https://img.shields.io/badge/qgis-3.22_Bia%C5%82owie%C5%BCa-93b023?&style=for-the-badge&logo=qgis&logoColor=white" /></a>
 
 <p align="center"><a href="" target="_blank"><img src="imgs/splash324rc.png" width="500" title="QGIS 3.24 RC Tisler"></a></p>
 
