@@ -23,6 +23,7 @@ GeoBreak 41 - **QGIS**: l'installazione!
 - [Cosa c'è in questo repo](#cosa-cè-in-questo-repo)
 - [risultati](#risultati)
   - [chat](#chat)
+  - [Video Youtube](#video-youtube)
 
 <!-- /TOC -->
 
@@ -164,5 +165,13 @@ Francesco Pacini : Grazie a tutti. Complimenti Salvatore.
 S3+Lab : Grazieeeee
 Giuseppina : grazie a tutti
 ```
+
+## Video Youtube
+
+[![field_calc01](https://img.youtube.com/vi/-Og6Qtexld0/0.jpg)](https://youtu.be/-Og6Qtexld0 "GeoBreak")
+
+- [00:00:00](https://youtu.be/-Og6Qtexld0?t=90) | intro Roberta Fagandini
+- [00:01:30](https://youtu.be/-Og6Qtexld0?t=90) | Totò Fiandaca
+- [00:50:48](https://youtu.be/-Og6Qtexld0?t=3048) | Domande finali
 
 [↑ torna su ↑](#geobreak-41-by-gter)
